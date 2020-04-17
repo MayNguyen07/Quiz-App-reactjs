@@ -1,0 +1,82 @@
+[
+  {
+    "question": " Everything in React is a......?",
+    "opt1": "Module",
+    "opt2": "Component",
+    "opt3": "Package",
+    "opt4": "Class",
+    "answer": "Component"
+  },
+  {
+    "question": " In which directory React Components are saved ?",
+    "opt1": "Inside js/components/",
+    "opt2": "Inside vendor/components/",
+    "opt3": "Inside external/components/",
+    "opt4": " Inside vendor/",
+    "answer": "Inside js/components/"
+  },
+  {
+    "question": " How many elements does a react component return ? ",
+    "opt1": " 2 Elements",
+    "opt2": " 1 Element",
+    "opt3": " Multiple Elements",
+    "opt4": " None of These",
+    "answer": " Multiple Elements"
+  },
+  {
+    "question": " What is state in React?",
+    "opt1": " A persistant storage.",
+    "opt2": " An internal data store (object) of a component.",
+    "opt3": "we can pass date to other component",
+    "opt4": "A and B",
+    "answer": " An internal data store (object) of a component."
+  },
+  {
+    "question": " What is Babel?",
+    "opt1": "A transpiler.",
+    "opt2": "An interpreter",
+    "opt3": "A Compiler",
+    "opt4": " Both Compiler and Transpilar",
+    "answer": " Both Compiler and Transpilar"
+  },
+  {
+    "question": "What does webpack command do?",
+    "opt1": "Transpiles all the Javascript down into one file",
+    "opt2": "Runs react local development server.",
+    "opt3": "A module bundler",
+    "opt4": " All above",
+    "answer": "A module bundler"
+  },
+  {
+    "question": " What is Reactjs",
+    "opt1": "Server side Framework",
+    "opt2": "User-interface framework",
+    "opt3": "A Library for building interaction interfaces",
+    "opt4": " None of These",
+    "answer": "A Library for building interaction interfaces"
+  },
+  {
+    "question": " In react, what is used to pass data to a component from outsid?",
+    "opt1": " setState",
+    "opt2": " render with arguments",
+    "opt3": " props",
+    "opt4": " PropTypes",
+    "answer": "props"
+  },
+  {
+    "question": " Reactjs uses .... to increase performance?",
+    "opt1": "Original DOM",
+    "opt2": "Virtual DOM",
+    "opt3": "Both 1 & 2",
+    "opt4": " None of above",
+    "answer": " Virtual DOM"
+  },
+  {
+    "question": " What is the name of React.js Developer ?",
+    "opt1": " Jordan mike",
+    "opt2": " Jordan Lee",
+    "opt3": "Jordan Walke",
+    "opt4": "Tim Lee",
+    "answer": "Jordan Walke"
+  }
+]

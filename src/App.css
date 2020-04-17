@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+
+  margin-top: 40px;
+}
+
+.input-form {
+  margin-top: 10%;
+}
+.form-style {
+  padding-top: 40px;
+}
+
+.question-form {
+  border-style: ridge;
+  box-sizing: border-box;
+  margin-top: 100px;
+}
+.question-form h2 {
+  margin-top: 20px;
+}
+
+.radiobuttons-container {
+  text-align: center;
+  margin-top: 40px;
+  padding-bottom: 40px;
+}
+.button {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.child--box {
+  display: flex;
+  flex-flow: column;
+  border: 1px solid #e88432;
+  background-color: #e88432;
+  margin: 3mm;
+  border-radius: 1mm;
+  padding: 2mm;
+}
+.display-check h4 {
+  padding-left: 20px;
+  text-align: left;
+}
+.warning-text {
+  color: red;
+}
