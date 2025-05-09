@@ -12,7 +12,7 @@
     "react-bootstrap": "^1.0.0",
     "react-dom": "^16.13.1",
     "react-hook-form": "^5.4.1",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "3.4.1"
   },
   "scripts": {
